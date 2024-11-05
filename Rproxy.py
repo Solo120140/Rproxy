@@ -6,8 +6,8 @@ LOCAL_HOST = '127.0.0.1'
 LOCAL_PORT = 4583
 
 # Define the mining pool address and port
-POOL_HOST = 'stratum-eu.rplant.xyz'
-POOL_PORT = 17121
+POOL_HOST = 'stratum-na.rplant.xyz'
+POOL_PORT = 17068
 
 def handle_client(client_socket):
     # Connect to the mining pool
